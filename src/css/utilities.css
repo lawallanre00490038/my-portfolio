@@ -136,12 +136,14 @@ h2::selection {
 
 /* project 1 */
 .card:nth-child(1) {
-  background: url(../assets/project/project-one.png) center center/cover;
+  background: url(../assets/project/restaurant.jpg) center center/cover;
+  opacity: 0.5;
 }
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/project/project-two.png) center center/cover;
+  background: url(../assets/project/fashion.png) center center/cover;
+  opacity: 0.5;
 }
 
 /* Project 3 */
