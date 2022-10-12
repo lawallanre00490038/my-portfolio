@@ -147,7 +147,7 @@ body {
 }
 
 .content-text p {
-  text-align: center;
+  text-align: justify;
 }
 
 @keyframes bounce {
