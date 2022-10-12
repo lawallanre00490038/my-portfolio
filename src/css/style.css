@@ -146,6 +146,10 @@ body {
   animation: bounce 1s infinite alternate;
 }
 
+.content-text p {
+  text-align: center;
+}
+
 @keyframes bounce {
   from {
     transform: translateY(0px);
